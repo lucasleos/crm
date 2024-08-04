@@ -1,0 +1,25 @@
+### .gitignore
+
+```gitignore
+# Ignorar archivos y carpetas del sistema
+*.DS_Store
+*.vscode/
+
+# Ignorar archivos temporales
+*.tmp
+*.temp
+
+# Ignorar archivos de configuración de XAMPP
+*.ini
+
+# Ignorar archivos de configuración de entorno
+.env
+
+# Ignorar archivos y carpetas específicos de PHP
+/vendor/
+composer.lock
+composer.phar
+
+# Ignorar archivos de bases de datos locales
+*.sql
+
