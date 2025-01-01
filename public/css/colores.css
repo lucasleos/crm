@@ -1,0 +1,48 @@
+.estado-cotizacion {
+  background-color: #1a1aff;
+  /* Color azul */
+  color: #000;
+  font-size: 1rem !important;
+}
+
+.estado-esperando {
+  background-color: #ffc107;
+  /* Color amarillo */
+  color: #fff;
+  font-size: 1rem !important;
+}
+
+.estado-analisis {
+  background-color: #17a2b8;
+  /* Color celeste */
+  color: #fff;
+  font-size: 1rem !important;
+}
+
+.estado-ganado {
+  background-color: #28a745;
+  /* Color verde */
+  color: #fff;
+  font-size: 1rem !important;
+}
+
+.estado-no-comercializamos {
+  background-color: #ff5000;
+  /* Color naranja */
+  color: #000;
+  font-size: 1rem !important;
+}
+
+.estado-perdido {
+  background-color: #dc3545;
+  /* Color rojo */
+  color: #fff;
+  font-size: 1rem !important;
+}
+
+.estado-vencido {
+  background-color: #6c757d;
+  /* Color gris */
+  color: #fff;
+  font-size: 1rem !important;
+}
